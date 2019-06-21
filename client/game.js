@@ -1,3 +1,7 @@
+
+
+//import * as PIXI from 'https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.0.4/pixi.min.js'
+
 Images = {
 	PLAYER: "images/player.png"
 }
